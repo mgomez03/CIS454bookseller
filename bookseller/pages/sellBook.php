@@ -52,13 +52,18 @@
 				<input type="text" required class="form-control" placeholder="Price">
 			</div>
 
-	    	<div>
-	    		<textarea class="form-control" cols="30" rows="3" placeholder="Description"></textarea>
-	    	</div>
+	    	<form id="upload-form" action="upload.php" method="post" enctype="multipart/form-data" >
+				<input type="file" id="upload" name="upload" /> <br/>
+				<input type="submit" value="Upload" />
+			</form>
+
+			 <br/> <br/>
 
 	    	<label><input type="checkbox"><span>I agree to the terms of service</span></label><br>
 			<input type="submit" value="Submit" >
 		</form> 
+
+
 	    <!-- end form-->
 
 
