@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="ISO-8859-1">
 		<title>BookSeller - Check out</title>
-		<link rel='stylesheet' href='../css/main.css' />
+		<link rel='stylesheet' href='../css/sellBook.css' />
 	</head>
 	<body>
 	<!-- top navigation bar with pic and status Hello world!-->
