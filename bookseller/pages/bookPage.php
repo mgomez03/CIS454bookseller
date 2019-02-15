@@ -20,7 +20,6 @@
     	  		<button class="dropbtnAcct">My Account</button>
     				  <div class="dropdownAcct-content">
     				    <a href="pages/profile.php">Profile</a>
-    				    <a href="pages/shoppingCart.php">Shopping Cart</a>
     				     <a href="index.php?logout='1'" style="color: red;">Logout</a>
     					  </div> 
     			</div>
