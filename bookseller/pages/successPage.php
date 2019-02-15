@@ -37,7 +37,31 @@
                 <!--Selling Form-->
                 <br>
                 <h1>Buy Succeed!</h1>
-
+				<div id="main">
+		<div id="up">
+			<span style="color:#BDBCBF;">ORDER PLACED</span>
+			<span style="color:#BDBCBF;">Purchase Success!</span>
+		</div>
+		<div id="down">
+			<table style="width:100%;">
+				<tr>
+					<td width=10%>
+						<img src="../images/Book.jpg" width=150/>
+					</td width=50%>
+					<td width=40%>			
+						<span style="color:#3183CC;">The Fox Mug Book</span>
+						<span style="color:#BDBCBF;">by: Bullshit Author </span>
+						<span style="color:black;">Sold By: Jane Doe'</span>
+						<span style="color:red;">$9.44</span>
+					</td>
+					<td>
+						<a class="btn" href="">Return/Report Book</a><br>
+						<a class="btn" href="">Contact Seller</a>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</div>
 
 
     </div>
